@@ -1,0 +1,7 @@
+
+<!-- Place your Services.xml in the C:\ServiceConfig\ folder -->
+
+<Services>
+    <Service>MSSQLSERVER</Service>
+    <Service>MSSQLServerOLAPService</Service>
+</Services>
